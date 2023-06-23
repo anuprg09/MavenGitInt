@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T07:29:11 IST" name="itsutra.MavenGITIntegration.NewTest" finished-at="2023-06-23T07:29:37 IST" duration-ms="26230">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T07:29:11 IST" name="Command line test" finished-at="2023-06-23T07:29:37 IST" duration-ms="26230">
+      <class name="itsutra.MavenGITIntegration.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:itsutra.MavenGITIntegration.NewTest@70325e14]" started-at="2023-06-23T07:29:11 IST" name="beforeTest" finished-at="2023-06-23T07:29:16 IST" duration-ms="5406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="myTest()[pri:0, instance:itsutra.MavenGITIntegration.NewTest@70325e14]" started-at="2023-06-23T07:29:16 IST" name="myTest" finished-at="2023-06-23T07:29:37 IST" duration-ms="20767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:itsutra.MavenGITIntegration.NewTest@70325e14]" started-at="2023-06-23T07:29:37 IST" name="afterTest" finished-at="2023-06-23T07:29:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- itsutra.MavenGITIntegration.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- itsutra.MavenGITIntegration.NewTest -->
+</testng-results>
